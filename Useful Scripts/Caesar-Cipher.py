@@ -1,4 +1,5 @@
 import string
+import sys
 
 class CaesarCipher:
     def __init__(self):
@@ -22,7 +23,8 @@ class CaesarCipher:
             print("4. HELP")
             print("5. Change Characters")
             print(f"6. Start {self.mode}ing")
-            response = input("> ")
+            print("Q. Quit")
+            response = input("> ").lower()
 
             match response:
                 case "1":
@@ -37,8 +39,13 @@ class CaesarCipher:
                     self.set_characters()
                 case "6":
                     self.start()
+                case "q":
+                    print("="*40)
+                    print("Thanks for using this program!".center(40))
+                    print("="*40)
+                    sys.exit()
                 case default:
-                    print("Please choose a valid option. (1-6)")
+                    print("Please choose a valid option. (1-6) or Q to quit")
 
     def set_characters(self):
         print("================================")

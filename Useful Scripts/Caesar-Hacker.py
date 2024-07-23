@@ -1,4 +1,5 @@
 import string
+import sys
 
 class CaesarHacker:
     def __init__(self):
@@ -18,7 +19,8 @@ class CaesarHacker:
             print(f"1. Set The Encrypted Message {{ Current Message: {self.message} }}")
             print("2. Change Characters")
             print("3. Start Hacking")
-            response = input("> ")
+            print("Q. Quit")
+            response = input("> ").lower()
 
             match response:
                 case "1":
@@ -29,6 +31,11 @@ class CaesarHacker:
                     hacked_messages = self.hack()
                     for key, message in hacked_messages.items():
                         print(f"Key {key}: {message}")
+                case "q":
+                    print("="*40)
+                    print("Thanks for using this program!".center(40))
+                    print("="*40)
+                    sys.exit()
 
     def hack(self):
         hacked = {}
