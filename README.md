@@ -10,6 +10,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Madlibs Generator](./Games/Madlibs-Generator.py)
 - [Simple Guess The Number](./Games/Simple-Guess-The-Number.py)
 - [Advanced Guess The Number](./Games/Advanced-Guess-The-Number.py)
+- [Bagels](./Games/Bagels.py)
 
 ### Useful Scripts
 - [Caesar Cipher](./Useful%20Scripts/Caesar-Cipher.py)
