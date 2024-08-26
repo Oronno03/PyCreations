@@ -21,6 +21,8 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Text File Analyzer](./Useful%20Scripts/Text-File-Analyzer.py)
 - [File Organizer](./Useful%20Scripts/File-Organizer.py)
 - [Image Downloader](./Useful%20Scripts/Image-Downloader.py)
+- [Youtube Video Downloader](./Useful%20Scripts/YT-Video-Downloader.py)
+- [Temperature Converter](./Useful%20Scripts/Temperature-Converter.py)
 
 ## Getting Started
 
