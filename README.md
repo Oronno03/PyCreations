@@ -26,6 +26,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Temperature Converter](./Useful%20Scripts/Temperature-Converter.py)
 - [Countdown Timer](./Useful%20Scripts/Countdown-Timer.py)
 - [Credit Card Validator](./Useful%20Scripts/Credit-Card-Validator.py)
+- [Port Scanner](./Useful%20Scripts/Port-Scanner.py)
 
 ### Simulations
 
