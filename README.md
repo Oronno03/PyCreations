@@ -20,6 +20,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Password Generator](./Useful%20Scripts/Password-Generator.py)
 - [Text File Analyzer](./Useful%20Scripts/Text-File-Analyzer.py)
 - [File Organizer](./Useful%20Scripts/File-Organizer.py)
+- [Image Downloader](./Useful%20Scripts/Image-Downloader.py)
 
 ## Getting Started
 
