@@ -27,6 +27,10 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Countdown Timer](./Useful%20Scripts/Countdown-Timer.py)
 - [Credit Card Validator](./Useful%20Scripts/Credit-Card-Validator.py)
 
+### Simulations
+
+- [Birthday Paradox](./Simulations/Birthday-Paradox.py)
+
 ## Getting Started
 
 To get started with any of the projects, clone the repository and navigate to the relevant project folder. Each project includes a README file with instructions on how to run the code and any dependencies you might need to install.
