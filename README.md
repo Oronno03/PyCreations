@@ -13,6 +13,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Advanced Guess The Number](./Games/Advanced-Guess-The-Number.py)
 - [Bagels](./Games/Bagels.py)
 - [Rock Paper Scissors](./Games/Rock-Paper-Scissor.py)
+- [Tic Tac Toe](./Games/Tic-Tac-Toe.py)
 
 ### Useful Scripts
 
