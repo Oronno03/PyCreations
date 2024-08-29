@@ -29,6 +29,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Credit Card Validator](./Useful%20Scripts/Credit-Card-Validator.py)
 - [Port Scanner](./Useful%20Scripts/Port-Scanner.py)
 - [Qr Code Generator](./Useful%20Scripts/Qr-Code-Generator.py)
+- [Age Calculator](./Useful%20Scripts/Age-Calculator.py)
 
 ### Simulations
 
