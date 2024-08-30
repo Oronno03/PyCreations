@@ -14,6 +14,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Bagels](./Games/Bagels.py)
 - [Rock Paper Scissors](./Games/Rock-Paper-Scissor.py)
 - [Tic Tac Toe](./Games/Tic-Tac-Toe.py)
+- [Brain Teaser](./Games/Brain-Teaser.py)
 
 ### Useful Scripts
 
