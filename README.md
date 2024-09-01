@@ -32,6 +32,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Qr Code Generator](./Useful%20Scripts/Qr-Code-Generator.py)
 - [Age Calculator](./Useful%20Scripts/Age-Calculator.py)
 - [Expense Tracker](./Useful%20Scripts/Expense-Tracker-CLI.py)
+- [Browser](./Useful%20Scripts/Browser.py)
 
 ### Simulations
 
