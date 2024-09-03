@@ -40,12 +40,37 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 
 ## Getting Started
 
-To get started with any of the projects, clone the repository and navigate to the relevant project folder. Each project includes a README file with instructions on how to run the code and any dependencies you might need to install.
+To get started with any of the projects:
+
+1. **Clone the repository** to your local machine.
+2. **Navigate to the relevant project folder** to explore the code.
+3. **(Optional) Create a virtual environment** to keep dependencies isolated:
+   ```bash
+   python -m venv venv
+   ```
+4. **Activate the virtual environment**:
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+5. **Install the dependencies** listed in the `requirements.txt` file:
+   ```bash
+   pip install -r requirements.txt
+   ```
+6. Run the Python script directly using:
+   ```bash
+   python <category>\<script_name>.py
+   ```
 
 ## Contributing
 
 Contributions are welcome! You can contribute by:
 
+- Adding new projects.
 - Refactoring code to improve its structure or performance.
 - Fixing bugs or issues you find in the projects.
 - Correcting typos or improving documentation.
@@ -53,7 +78,7 @@ Contributions are welcome! You can contribute by:
 To contribute:
 
 1. **Clone the repository** to your local machine.
-2. **Make your changes** or add new features (create a new branch).
+2. **Make your changes** or add new projects (create a new branch).
 3. **Submit a pull request** with a description of your changes.
 
 Feel free to open an issue if you have any questions or need help.
