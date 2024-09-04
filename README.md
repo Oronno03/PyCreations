@@ -38,6 +38,12 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 
 - [Birthday Paradox](./Simulations/Birthday-Paradox.py)
 
+### Algorithms
+
+#### Sorting
+
+- [Bubble Sort](./Algorithms/Sorting/Bubble-Sort.py)
+
 ## Getting Started
 
 To get started with any of the projects:
