@@ -43,6 +43,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 #### Sorting
 
 - [Bubble Sort](./Algorithms/Sorting/Bubble-Sort.py)
+- [Insertion Sort](./Algorithms/Sorting/Insertion-Sort.py)
 
 ## Getting Started
 
