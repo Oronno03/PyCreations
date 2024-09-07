@@ -15,6 +15,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Rock Paper Scissors](./Games/Rock-Paper-Scissor.py)
 - [Tic Tac Toe](./Games/Tic-Tac-Toe.py)
 - [Brain Teaser](./Games/Brain-Teaser.py)
+- [Hangman](./Games/Hangman.py)
 
 ### Useful Scripts
 
@@ -44,6 +45,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 
 - [Bubble Sort](./Algorithms/Sorting/Bubble-Sort.py)
 - [Insertion Sort](./Algorithms/Sorting/Insertion-Sort.py)
+- [Selection Sort](./Algorithms/Sorting/Selection-Sort.py)
 
 ## Getting Started
 
