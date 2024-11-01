@@ -35,6 +35,7 @@ Welcome to PyCreations, a collection of fun and useful Python projects! This rep
 - [Expense Tracker](./Useful%20Scripts/Expense-Tracker-CLI.py)
 - [Browser](./Useful%20Scripts/Browser.py)
 - [Temperature Converter GUI](./Useful%20Scripts/Temperature-Converter-GUI.py)
+- [Directory Space Analyzer](./Useful%20Scripts/Directory-Space-Analyzer.py)
 
 ### Simulations
 

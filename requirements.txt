@@ -26,10 +26,6 @@ numpy==2.1.0
 oauthlib==3.2.2
 packaging==23.2
 pillow==10.4.0
-pycodestyle==2.11.0
-pydantic==2.8.2
-pydantic_core==2.20.1
-pyflakes==3.1.0
 pygame==2.6.0
 Pygments==2.16.1
 pypng==0.20220715.0
@@ -38,11 +34,11 @@ PyQt5-Qt5==5.15.2
 PyQt5_sip==12.15.0
 PyQtWebEngine==5.15.7
 PyQtWebEngine-Qt5==5.15.2
-python-dateutil==2.9.0.post0
+python-dateutil==2.7.5
 python-dotenv==1.0.1
 python-slugify==8.0.4
 pytubefix==6.13.0
-PyYAML==6.0.2
+PyYAML==3.13
 qrcode==7.4.2
 repath==0.9.0
 requests==2.31.0
